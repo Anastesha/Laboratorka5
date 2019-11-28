@@ -69,9 +69,7 @@ using namespace std;
 //Додала коментар
 int main()
 {	int x ;
-	cout << " Input x: ";
-	cin >> x;  // Ще додала коментар
-	double rez, summer = 0;
+	
 	if ( x + 5 != 0)
 	{
 		for (int n = 1; n < 6; n++)
